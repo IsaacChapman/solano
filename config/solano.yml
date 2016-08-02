@@ -11,8 +11,9 @@ profiles:
 pipeline:
   r193:
     - r215: r230
+    - r222
 edges:
-    - r220: r230
+    - r222: r230
 
 coverage:
   version: 2
